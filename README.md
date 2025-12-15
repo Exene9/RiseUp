@@ -9,7 +9,7 @@
 
 **RiseUp** is a 2D platformer where the goal is simple: **Climb**. Inspired by classics like *Super Mario Bros.* and modern hits like *Celeste*, the game focuses on "Game Feel"—prioritizing responsive, momentum-based movement and fair combat.
 
-This project was developed as a capstone engineering challenge to demonstrate the viability of creating high-fidelity 2D games using **Unreal Engine 5** and the **Blueprint Visual Scripting** system[cite: 43].
+This project was developed as a capstone engineering challenge to demonstrate the viability of creating high-fidelity 2D games using **Unreal Engine 5** and the **Blueprint Visual Scripting** system.
 
 ### Key Features
 * **Vertical Locomotion System:** Physics tuned for "snappy" controls, including "Coyote Time" (jump buffering) and momentum conservation.
@@ -52,9 +52,9 @@ This project pivoted from an initial Godot C# proposal to **Unreal Engine 5** to
 
 No installation of Unreal Engine is required to play the release build.
 
-1.  **Download:** Go to the [Releases](../../releases) page and download `RiseUp_Release_v1.0.zip`.
+1.  **Download:** Download `Windows-RiseUp.zip`.
 2.  **Extract:** Unzip the contents to a folder on your computer.
-3.  **Play:** Navigate to the folder and launch `RiseUp.exe`.
+3.  **Play:** Navigate to the folder and launch `sideScroller.exe`.
 
 > *Note: If Windows Defender prompts a warning, select "More Info" -> "Run Anyway" (The executable is not digitally signed).*
 

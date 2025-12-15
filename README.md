@@ -42,9 +42,9 @@ This project pivoted from an initial Godot C# proposal to **Unreal Engine 5** to
 * **IDE:** Visual Studio 2022 (for C++ interfacing) 
 
 ### Design Patterns Used
-* [cite_start]**Singleton Pattern:** Implemented via `GameInstance` to manage global game state and audio persistence
-* [cite_start]**State Pattern:** Managed via PaperZD to handle complex character animations (Idle -> Run -> Jump -> Fall -> Defeated) without spaghetti code.
-* [cite_start]**Inheritance:** `BP_Adventurer` (Player) and `BP_Pig` (Enemy) share a common `BP_Character` parent for physics and health logic.
+* **Singleton Pattern:** Implemented via `GameInstance` to manage global game state and audio persistence
+* **State Pattern:** Managed via PaperZD to handle complex character animations (Idle -> Run -> Jump -> Fall -> Defeated) without spaghetti code.
+* **Inheritance:** `BP_Adventurer` (Player) and `BP_Pig` (Enemy) share a common `BP_Character` parent for physics and health logic.
 
 ---
 
